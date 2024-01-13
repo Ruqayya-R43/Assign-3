@@ -1,0 +1,73 @@
+.background-img{
+    background-image: url(WhatsApp\ Image\ 2024-01-11\ at\ 07.03.47_4e1b6a43.jpg);
+    height: 600px;
+    width: 1350px;
+    background: cover;
+    background-position: center;
+    filter: brightness(1);    
+
+    
+    
+    
+}
+#centerdiv{
+    margin-left: 320px;
+    padding: 100px;
+    
+    
+    
+}
+h3{
+    margin-left: 100px;
+    background-color: blanchedalmond;
+    width: 160px;
+    border-radius: 80px;
+}
+.nav{
+     
+     font-size: 18px;
+     margin-left: 380px;
+
+     
+     
+    
+}
+a{
+    text-decoration: none;
+    margin: 20px;
+    color: black;
+
+    
+}
+.div2{
+    margin-left: 400px ;
+}
+#h3{
+    
+    margin-left: 190px;
+    font-size: 19px;
+    padding: 0;
+    color: rgb(161, 37, 78);
+    background-color: rgb(252, 155, 185);
+    width: 75px;
+    
+    
+
+    
+
+}
+#h2{
+    margin-left: 90px;
+
+}
+#span1{
+    color: rgb(184, 77, 113);
+}
+.h2span1{
+    font-style: oblique;
+}
+a:hover{
+    text-underline-position: below ;
+    color: blue;
+}
+
